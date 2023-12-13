@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://lookup.guru/293938218141876225" target="_blank" rel="nofollow" aria-label=" El enlace se abrirá en una pestaña nueva"> <img src="https://dcbadge.vercel.app/api/shield/293938218141876225" />
+<a href="https://lookup.guru/293938218141876225" target="_blank" rel="nofollow" aria-label=" El enlace se abrirá en una pestaña nueva"> <img src="https://dcbadge.vercel.app/api/shield/293938218141876225?style=flat&theme=clean&compact=true" />
 
 <!--
 **aleelpalmero/aleelpalmero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
