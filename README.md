@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/aleelpalmero](https://linkedin.com/in/aleelpalmero)
 
-- ⚡ Games **Valorant, CS:GO, Baldurs Gate 3,...**
+- ⚡ Playing **Valorant, CS:GO, Baldurs Gate 3,...**
 
 - 📫 How to reach me **contacto@islab.es**
 
