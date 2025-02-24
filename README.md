@@ -19,6 +19,7 @@
 <a href="https://linkedin.com/in/aleelpalmero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleelpalmero" height="30" width="40" /></a>
 <a href="https://instagram.com/aleelpalmero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleelpalmero" height="30" width="40" /></a>
 <a href="https://discord.gg/9QdsuD6fVv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9QdsuD6fVv" height="30" width="40" /></a>
+<a href="https://m.imdb.com/es-es/name/nm17048922/?ref_=ext_shr_lnk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" alt="imdb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
