@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">Back-End developer in progress. With more than 9 years as SysAdmin, passionate about the Gamer world and very self-taught.</h3>
+<h3 align="center">Back-End developer in progress. With more than 12 years as SysAdmin, passionate about the Gamer world and very self-taught.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleelpalmero&label=Profile%20views&color=4262ff&style=flat" alt="aleelpalmero" /> </p>
 
